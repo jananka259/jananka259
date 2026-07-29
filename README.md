@@ -1,84 +1,152 @@
 <div align="center">
 
-# Abdulaziz Hassan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1F33,50:12395B,100:C89B3C&text=Abdulaziz%20Hassan&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Abdulaziz Hassan profile banner" />
 
-### Full-Stack Software Engineer
+### Building production web and mobile products for real organizations
 
-Building production web and mobile products for real organizations.
+[![Live Product](https://img.shields.io/badge/VIEW_LIVE_PRODUCT-IOSENTER.NO-C89B3C?style=for-the-badge&logo=safari&logoColor=white)](https://www.iosenter.no/)
+[![GitHub](https://img.shields.io/badge/GITHUB-JANANKA259-0B1F33?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jananka259)
 
-[![GitHub](https://img.shields.io/badge/GitHub-jananka259-181717?style=flat-square&logo=github)](https://github.com/jananka259)
-[![Live Product](https://img.shields.io/badge/Live_Product-iosenter.no-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://www.iosenter.no/)
+</div>
+
+<br />
+
+## About
+
+I build practical digital products from requirements and architecture through implementation, deployment, and continued improvement after launch.
+
+My flagship work is the digital platform for **Islamsk Opplæringssenter — Masjid Al Noor in Stavanger**. I completed and launched the production website and am now developing its companion mobile application.
+
+<div align="center">
+
+![Product Thinking](https://img.shields.io/badge/Product_Thinking-0B1F33?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full--Stack_Development-12395B?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-8D6B22?style=flat-square)
+![Production Delivery](https://img.shields.io/badge/Production_Delivery-C89B3C?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## Profile
+## Technology
 
-I build practical digital products from initial requirements through architecture, implementation, deployment, and continued improvement after launch.
+<div align="center">
 
-My current flagship work is the digital platform for **Islamsk Opplæringssenter — Masjid Al Noor in Stavanger**. I completed and launched the production website and am now developing the accompanying mobile application.
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,mongodb,git,github,docker,vercel&perline=11" alt="Technology stack" />
 
-```text
-Product thinking   Full-stack development   System design   Production delivery
-```
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Application
+
+`Next.js 15` · `React 19` · `TypeScript 5`  
+`Tailwind CSS 4` · `Framer Motion` · `Lucide`
+
+</td>
+<td width="50%" valign="top">
+
+### Platform
+
+`MongoDB` · `NextAuth 5` · `bcrypt`  
+`Nodemailer` · `Node.js` · `Vercel`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Core Technologies
+<div align="center">
 
-| Area | Technologies |
-|---|---|
-| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
-| Backend | Node.js, REST-style API routes, MongoDB |
-| Authentication | NextAuth, MongoDB adapter, bcrypt |
-| Product tooling | Nodemailer, Framer Motion, Lucide, Excel export |
-| Delivery | Git, GitHub, Docker, Vercel |
-| Current focus | Mobile development, testing, observability, AI integration |
+## Featured Case Study
 
----
+# IOSenter Digital Platform
 
-## Featured Product
+**A live community platform designed, built, deployed, and maintained for a real organization in Stavanger.**
 
-# IOSenter — Masjid Al Noor Digital Platform
+[![Production](https://img.shields.io/badge/WEB-LIVE_IN_PRODUCTION-1F7A5A?style=for-the-badge)](https://www.iosenter.no/)
+![Mobile](https://img.shields.io/badge/MOBILE-IN_DEVELOPMENT-C89B3C?style=for-the-badge)
 
-[View the live website](https://www.iosenter.no/)
+</div>
 
-A production digital platform built for Islamsk Opplæringssenter and Masjid Al Noor in Stavanger. It gives the community a central place for prayer information, activities, courses, announcements, articles, membership, donations, daily reflections, and organizational information.
+<br />
 
-### Production website
+<a href="https://www.iosenter.no/">
+  <img src="assets/iosenter/websitedashboardmainpage.png" width="100%" alt="IOSenter production website" />
+</a>
 
-<p align="center">
-  <a href="https://www.iosenter.no/">
-    <img src="assets/iosenter/websitedashboardmainpage.png" width="100%" alt="IOSenter production website" />
-  </a>
-</p>
+<br />
+
+<table>
+<tr>
+<td width="33%" align="center">
+<strong>Production delivery</strong><br />
+Live, responsive website
+</td>
+<td width="33%" align="center">
+<strong>Full-stack system</strong><br />
+Public product and admin tools
+</td>
+<td width="33%" align="center">
+<strong>Product evolution</strong><br />
+Web platform expanding to mobile
+</td>
+</tr>
+</table>
+
+### The product
+
+IOSenter provides a central digital experience for prayer information, activities, courses, announcements, articles, membership, donations, daily reflections, and organizational information.
 
 ### What I delivered
 
-- Responsive production website for a real community organization
-- Prayer-time and community-information experiences
-- Events, courses, announcements, and publishing workflows
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Public experience**
+
+- Responsive production website
+- Prayer-time and daily-content experiences
+- Events, courses, announcements, and articles
 - Membership, contact, and donation journeys
-- Deployment, reliability improvements, and ongoing maintenance
-- A consistent visual system designed around the organization’s identity
 
-### Verified technology stack
+</td>
+<td width="50%" valign="top">
 
-| Layer | Implementation |
-|---|---|
-| Application framework | Next.js 15 with React 19 |
+**Operational platform**
+
+- Protected administration interface
+- Persistent MongoDB data workflows
+- Authentication and authorization
+- Email notifications and spreadsheet exports
+
+</td>
+</tr>
+</table>
+
+### Verified implementation
+
+| Layer | Technology |
+|:--|:--|
+| Framework | Next.js 15 with React 19 |
 | Language | TypeScript 5 and JavaScript |
-| Styling | Tailwind CSS 4 |
-| Database | MongoDB using the official Node.js driver |
-| Authentication | NextAuth 5 with the MongoDB adapter |
-| Password security | bcrypt-based password hashing |
-| Email delivery | Nodemailer-based operational notifications |
-| Interface and motion | Framer Motion and Lucide React |
-| Data operations | Spreadsheet export through the `xlsx` library |
-| Runtime | Node.js with production deployment on Vercel |
+| Styling and interaction | Tailwind CSS 4, Framer Motion, Lucide React |
+| Data | MongoDB with the official Node.js driver |
+| Authentication | NextAuth 5, MongoDB adapter, bcrypt hashing |
+| Communication | Nodemailer and SMTP notification workflows |
+| Operations | `xlsx` spreadsheet export tooling |
+| Runtime and delivery | Node.js and Vercel |
 
-### Application architecture
+<details>
+<summary><strong>View application architecture</strong></summary>
+
+<br />
 
 ```text
 Community users
@@ -99,7 +167,7 @@ Application API routes
   ├── Authentication and authorization
   └── Notification workflows
       │
-      ├──────────────► Nodemailer / SMTP notifications
+      ├──────────────► Nodemailer / SMTP
       │
       ▼
 MongoDB
@@ -109,77 +177,95 @@ MongoDB
   └── Administrative records
 ```
 
-### Engineering highlights
+</details>
+
+<details>
+<summary><strong>View engineering highlights</strong></summary>
+
+<br />
 
 - Built the frontend and backend inside one full-stack Next.js application
 - Created dedicated API routes for contact, membership, and course-enrolment workflows
-- Integrated MongoDB for persistent application and administrative data
-- Implemented authenticated administrative functionality with NextAuth and secure password handling
-- Added email-notification workflows for operational form submissions
-- Supported administrative data handling and spreadsheet exports
-- Used reusable UI components, animation, and responsive layouts across the public product
-- Maintained the application after launch and continued extending the platform toward mobile
+- Integrated MongoDB for application and administrative data
+- Implemented authenticated administration with secure password handling
+- Added operational email-notification workflows
+- Supported administrative exports and reusable data workflows
+- Created responsive, reusable UI components and motion patterns
+- Continued maintaining and extending the product after launch
 
-### Mobile application — in development
-
-The next phase is a mobile-first experience that brings prayer times, announcements, calendar information, content, and community services into one application.
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="assets/iosenter/prayermobile.png" width="320" alt="IOSenter mobile prayer screen" />
-</td>
-<td width="50%" align="center" valign="top">
-<img src="assets/iosenter/prayermobile2.png" width="320" alt="IOSenter mobile prayer-time interface" />
-</td>
-</tr>
-</table>
-
-> The mobile application is currently under active development. The screens above represent work in progress and may change before release.
-
-### Product direction
-
-| Web platform | Mobile application |
-|---|---|
-| Live and in production | Under active development |
-| Public information and services | Fast, mobile-first daily access |
-| Responsive browser experience | Native-feeling app experience |
-| Ongoing maintenance | Iterative feature development |
-
----
-
-## Additional Work
-
-### Malin Café
-
-A modern business platform focused on responsive UX, maintainable frontend architecture, performance, and production deployment.
-
----
-
-## Engineering Approach
-
-```text
-Understand the problem before choosing the technology.
-Design clear systems instead of adding unnecessary complexity.
-Build for maintainability, reliability, and real users.
-Treat launch as the beginning of the product lifecycle.
-Improve through implementation, feedback, and reflection.
-```
-
----
-
-## Current Focus
-
-- IOSenter mobile application development
-- Cross-platform web and mobile architecture
-- Backend APIs and database design
-- Testing, continuous integration, and observability
-- AI integration and workflow automation
+</details>
 
 ---
 
 <div align="center">
 
+## Mobile Application
+
+### Currently under active development
+
+A mobile-first extension focused on fast daily access to prayer times, announcements, calendar information, content, and community services.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="assets/iosenter/prayermobile.png" width="330" alt="IOSenter mobile prayer screen" />
+</td>
+<td width="50%" align="center" valign="top">
+<img src="assets/iosenter/prayermobile2.png" width="330" alt="IOSenter mobile prayer-time interface" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>The mobile screens represent work in progress and may change before release.</sub>
+
+</div>
+
+---
+
+## Additional Work
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### Malin Café
+
+A modern business platform focused on responsive user experience, maintainable frontend architecture, performance, and production deployment.
+
+`Responsive UX` · `Frontend architecture` · `Performance` · `Production delivery`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Principles
+
+> **Understand the problem before choosing the technology.**  
+> Design clear systems instead of adding unnecessary complexity.  
+> Build for maintainability, reliability, and real users.  
+> Treat launch as the beginning of the product lifecycle.
+
+---
+
+## Current Focus
+
+<div align="center">
+
+![Mobile](https://img.shields.io/badge/Mobile_Product_Development-0B1F33?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Cross--Platform_Architecture-12395B?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend_%26_Data_Design-8D6B22?style=for-the-badge)
+![Quality](https://img.shields.io/badge/Testing_%26_Observability-C89B3C?style=for-the-badge)
+
+<br /><br />
+
 ### Building useful software for real communities and organizations.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:C89B3C,50:12395B,100:0B1F33" width="100%" alt="Footer" />
 
 </div>
