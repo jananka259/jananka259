@@ -30,7 +30,9 @@ Product thinking   Full-stack development   System design   Production delivery
 | Area | Technologies |
 |---|---|
 | Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
-| Backend | Node.js, REST APIs, MongoDB, PostgreSQL |
+| Backend | Node.js, REST-style API routes, MongoDB |
+| Authentication | NextAuth, MongoDB adapter, bcrypt |
+| Product tooling | Nodemailer, Framer Motion, Lucide, Excel export |
 | Delivery | Git, GitHub, Docker, Vercel |
 | Current focus | Mobile development, testing, observability, AI integration |
 
@@ -60,6 +62,63 @@ A production digital platform built for Islamsk Opplæringssenter and Masjid Al 
 - Membership, contact, and donation journeys
 - Deployment, reliability improvements, and ongoing maintenance
 - A consistent visual system designed around the organization’s identity
+
+### Verified technology stack
+
+| Layer | Implementation |
+|---|---|
+| Application framework | Next.js 15 with React 19 |
+| Language | TypeScript 5 and JavaScript |
+| Styling | Tailwind CSS 4 |
+| Database | MongoDB using the official Node.js driver |
+| Authentication | NextAuth 5 with the MongoDB adapter |
+| Password security | bcrypt-based password hashing |
+| Email delivery | Nodemailer-based operational notifications |
+| Interface and motion | Framer Motion and Lucide React |
+| Data operations | Spreadsheet export through the `xlsx` library |
+| Runtime | Node.js with production deployment on Vercel |
+
+### Application architecture
+
+```text
+Community users
+      │
+      ▼
+Next.js application
+  ├── Public website and responsive UI
+  ├── Server-rendered application routes
+  ├── Contact, membership and enrolment forms
+  ├── Prayer, content and community experiences
+  └── Protected administration interface
+      │
+      ▼
+Application API routes
+  ├── Contact submissions
+  ├── Membership applications
+  ├── Course enrolments
+  ├── Authentication and authorization
+  └── Notification workflows
+      │
+      ├──────────────► Nodemailer / SMTP notifications
+      │
+      ▼
+MongoDB
+  ├── Community content
+  ├── Form submissions
+  ├── Membership and enrolment data
+  └── Administrative records
+```
+
+### Engineering highlights
+
+- Built the frontend and backend inside one full-stack Next.js application
+- Created dedicated API routes for contact, membership, and course-enrolment workflows
+- Integrated MongoDB for persistent application and administrative data
+- Implemented authenticated administrative functionality with NextAuth and secure password handling
+- Added email-notification workflows for operational form submissions
+- Supported administrative data handling and spreadsheet exports
+- Used reusable UI components, animation, and responsive layouts across the public product
+- Maintained the application after launch and continued extending the platform toward mobile
 
 ### Mobile application — in development
 
