@@ -64,12 +64,12 @@ I recently completed and launched the website for **Islamsk Opplæringssenter �
 
 [![Visit Website](https://img.shields.io/badge/Visit_Live_Website-iosenter.no-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.iosenter.no/)
 
-A live digital platform built for Islamsk Opplæringssenter and Masjid Al Noor in Stavanger. The website gives the community one place to access prayer information, events, courses, announcements, articles, membership, donations, daily Islamic reflections, and organizational information. citeturn231715view0
+A live digital platform built for Islamsk Opplæringssenter and Masjid Al Noor in Stavanger. The website gives the community one place to access prayer information, events, courses, announcements, articles, membership, donations, daily Islamic reflections, and organizational information.
 
 **Delivered**
 
 - Production website for a real community organization
-- Responsive, multilingual public experience
+- Responsive public experience
 - Prayer-time and community-information access
 - Events, courses, announcements, and article publishing
 - Membership, contact, and donation journeys
