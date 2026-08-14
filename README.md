@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1F33,50:12395B,100:C89B3C&text=Abdulaziz%20Hassan&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%" alt="Abdulaziz Hassan profile banner" />
 
-### Software Engineering Student
+### Software Engineering 
 
 <br />
 
